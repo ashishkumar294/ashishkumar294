@@ -26,13 +26,11 @@
 
 <h1>About Me ❤️</h1>
 
-- 💡 Data Science Enthusiast with a background in Mathematics.
-- 🎓 Accomplished the requirements for a prestigious Diploma in Data Science.
-- 🏢 Currently employed as a Data Analyst in a Marketing Research company.
-- ⚡ In my free time, I love to solve problems on HackerRank and read tech articles.
-- 😆 Fun fact: If data science were a sport, I'd be the MVP of finding patterns in numbers and predicting the future!
-- 📫 How to reach me: <a href="mailto:kumod.aws@gmail.com">kumod.aws@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/kumod-sharma/">My LinkedIn.</a>
-- <p>✍️ Check out my blogs on topics related to data science. You can find them on my <a href="https://medium.com/@kumod.aws">blog profile</a>.</p>
+- 💡 Data Analyst with a background in Mathematics.
+- 🎓 Accomplished the requirements for a prestigious Certificate in Data Analysis.
+- ⚡ In my free time, I love to solve problems on Data Analysis tools.
+- 😆 Fun fact: If Data Analysis were a sport, I'd be the MVP of in Cleaning Data and Analysis of Data.
+- 📫 How to reach me: <a href="akashish294.com">akashish294@gmail.com</a> | or connect with me on <a href="www.linkedin.com/in/ashish-kumar-6955a2439">My LinkedIn.</a>
 
 <br>
 <br>
